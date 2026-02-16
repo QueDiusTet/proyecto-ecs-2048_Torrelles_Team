@@ -1,0 +1,6 @@
+.terraform/
+.aws/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+*.log
