@@ -17,7 +17,7 @@ variable "ecr_repo_name" {
 }
 
 variable "app_port" {
-  description = "Puerto TCP expuesto para el servicio web (Juego 2048)
+  description = "Puerto TCP expuesto para el servicio web (Juego 2048)"
   type        = number
   default     = 80
 }
