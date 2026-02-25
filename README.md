@@ -9,6 +9,7 @@ Consiste en un clúster ECS con instancias EC2 que ejecutan el juego 2048 en con
 * **Red:** VPC Default con Security Groups personalizados (Puertos dinámicos + HTTP)
 * **Contenedor:** Docker (Nginx + 2048 Game)
 * **Almacenamiento:** AWS ECR (Elastic Container Registry)
+*Nota:* Validado en entorno AWS Academy v2.0
 
 ## 🛠️ Despliegue (Quick Start)
 
